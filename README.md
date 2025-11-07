@@ -1,1 +1,1 @@
-"# blind-auction" 
+Blind auction project in Python.
